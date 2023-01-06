@@ -1,0 +1,5 @@
+/home/mahery/IdeaProjects/recensement/src/main/java/recensements/model/Personne.java
+/home/mahery/IdeaProjects/recensement/src/main/java/recensements/controller/PersonneController.java
+/home/mahery/IdeaProjects/recensement/src/main/java/recensements/exception/RessourceNotFoundException.java
+/home/mahery/IdeaProjects/recensement/src/main/java/recensements/RecensementApplication.java
+/home/mahery/IdeaProjects/recensement/src/main/java/recensements/repository/PersonneRepository.java

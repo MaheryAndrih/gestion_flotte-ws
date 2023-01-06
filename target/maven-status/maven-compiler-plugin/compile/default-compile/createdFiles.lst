@@ -1,0 +1,5 @@
+recensements/controller/PersonneController.class
+recensements/model/Personne.class
+recensements/repository/PersonneRepository.class
+recensements/RecensementApplication.class
+recensements/exception/RessourceNotFoundException.class
